@@ -11,7 +11,7 @@
 
 #### Currently learning - <a href="https://www.python.org/"><img src="icons/python.svg" title="Python" width=20px /></a>,<a href="https://www.kali.org/"><img src="icons/kali.png" title="Kali Linux"  width=40px /></a>  
 #### Contact me - <a href="roshancm01@gmail.com">roshancm01@gmail.com</a>
-#### Text me on <a href="https://wa.me/919188476714?text=Hey+I+saw+you+on+Github"><img src="icons/whatsapp.png" width=20px /></a> and we can talk about TV shows & cricket & food & stuff...
+#### Text me on <a href="https://wa.me/919188476714?text=Hey,+I+saw+you+on+Github"><img src="icons/whatsapp.png" width=20px /></a> and we can talk about TV shows & cricket & food & stuff...
 <br>
 
 ### Things I think I know:
