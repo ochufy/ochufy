@@ -34,7 +34,6 @@
 
 ### Find me on:
 <p>
-<a href="https://instagram.com/ochufy"><img src="icons/insta.svg" width=30px/></a>
 <a href="https://www.linkedin.com/in/c-m-roshan"><img src="icons/linkedin.svg" width=30px/></a>
 <a href="https://t.me/nitric_acid"><img src="icons/telegram.svg" width=30px/></a>
 <img src="icons/discord.svg" title="ochu#2685" width=30px/>
