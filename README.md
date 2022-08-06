@@ -9,7 +9,7 @@
 
 <br>
 
-#### Currently learning - <a href="https://www.python.org/"><img src="icons/python.svg" title="Python" width=20px /></a>,<a href="https://reactjs.org/"><img src="icons/react.svg" title="React"  width=20px /></a>  
+#### Currently learning - <a href="https://www.python.org/"><img src="icons/python.svg" title="Python" width=20px /></a>
 #### Contact me - <a href="roshancm01@gmail.com">roshancm01@gmail.com</a>
 #### Text me on <a href="https://wa.me/919188476714?text=Hey,+I+saw+you+on+Github"><img src="icons/whatsapp.png" width=20px /></a> and we can talk about TV shows & cricket & food & stuff...
 <br>
@@ -22,6 +22,7 @@
 <img src="icons/html5.svg" title="HTML5" width=40px/>
 <img src="icons/css3.svg" title="CSS3" width=40px/>
 <img src="icons/js.svg" title="javascript" width=40px/>
+<img src="icons/react.svg" title="React"  width=40px />
 </p>
 
 <br>
