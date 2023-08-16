@@ -33,6 +33,8 @@
 <br><br>
 </summary><img align="center" src="https://github-readme-stats.vercel.app/api?username=ochufy&show_icons=true&theme=dark" alt="ochufy" /></details>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ochufy&layout=compact)
+
 ### Find me on:
 <p>
 <a href="https://www.linkedin.com/in/c-m-roshan"><img src="icons/linkedin.svg" width=30px/></a>
