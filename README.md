@@ -1,7 +1,7 @@
 <p align="center"><img src="icons/name.png" /></p>
 <br>
 
-## CS undergrad at [RIT, Kottayam](http://rit.ac.in "Rajiv Gandhi Institute of Technology")  
+## Software Dev at [SOTI](https://soti.net/)
 
 <br>
 
